@@ -18,7 +18,7 @@ Feel free to connect with me on any of these platforms:
   <a href="https://wa.me/94762695098" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/charithzzz" target="_blank">
+  <a href="https://www.instagram.com/charithzz04" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/15mtGQBfDX/?mibextid=JRoKGi" target="_blank">
